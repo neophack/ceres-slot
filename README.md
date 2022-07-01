@@ -1,1 +1,2 @@
 # ceres
+# ceres-slot
